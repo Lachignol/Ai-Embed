@@ -2,7 +2,7 @@
 
 
 
-####  Ce projet démontre l'utilisation du framework Ollama avec le modèle d'IA Mistral pour générer des réponses. Nous pouvons fournir une multitude d'informations qui sont intégrées dans des fichiers texte placés dans un dossier nommé embedRepo. Ces informations sont ensuite lues et stockées dans une base de données bbolt. À partir de cette base de données et du prompt de l'utilisateur, nous recherchons les similarités afin de fournir une réponse pertinente.
+####  Cette expérimentation démontre l'utilisation du framework Ollama avec le modèle d'IA Mistral pour générer des réponses. Nous pouvons fournir une multitude d'informations qui sont intégrées dans des fichiers texte placés dans un dossier nommé embedRepo. Ces informations sont ensuite lues et stockées dans une base de données bbolt. À partir de cette base de données et du prompt de l'utilisateur, nous recherchons les similarités afin de fournir une réponse pertinente.
 
 ## Démonstration
 
@@ -18,7 +18,7 @@
 ## Remarques
 J'ai notifié au système de se baser sur les documents que je lui ai fournis pour que l'exemple soit plus parlant, car il aurait dans ce cas précis pu récupérer les informations préalablement intégrées dans le modèle lors de son entraînement.
 
-Projet avec les outils suivants :
+Expérimentation avec les outils suivants :
 Une librairie en golang du nom de Parakeet,
 Ollama et Mistral IA ,
 BDD :BBOLT,
