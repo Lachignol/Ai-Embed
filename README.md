@@ -16,7 +16,7 @@
 
 
 ## Remarques
-J'ai notifié au système de se baser sur les documents que je lui ai fournis pour que l'exemple soit plus parlant, car il aurait dans ce cas précis pu récupérer l'information sur internet.
+J'ai notifié au système de se baser sur les documents que je lui ai fournis pour que l'exemple soit plus parlant, car il aurait dans ce cas précis pu récupérer les informations préalablement intégrées dans le modèle lors de son entraînement.
 
 Projet avec les outils suivants :
 Une librairie en golang du nom de Parakeet,
